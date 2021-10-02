@@ -16,4 +16,4 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 | **Self-Courage** | Confidence        |
 |                  | Resileincy        |
 | **Self-Hygiene** | `Hourly Break`    |
-|                  | `ufficient Sleep` |              |
+|                  | `ufficient Sleep` |              
