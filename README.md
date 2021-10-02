@@ -7,6 +7,7 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 |              | Passion       |
 | Dedication   | Commitment    |
 |              | Hard-Work     |
+  ------------   ------------
 |              | Perseverance  |        
 |Perseverance  | Resolution    |
 |              | Determination |
