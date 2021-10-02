@@ -6,18 +6,18 @@
 - Creating an Account.
 - Use of Proper Setting Format.
 - Creating First Webpage.
-- Importance of GitHub
+- Importance of **GitHub**
 
 
 2. ***MARKUP LANGUAGE***
-- Purpose of Markup Language.
-- Utility of Markup Language.
+- Purpose of **Markup Language.**
+- Utility of **Markup Language.**
 - Stasndard Text-Encoding.
 
 3. ***MARKDOWN LANGUAGE***
-- Pupose of Markdown Language.
-- Utility of Markup Language.
-- How to Use Markup Lanhuage Withing GitHub.
+- Pupose of **Markdown Language.**
+- Utility of **Markup Language.**
+- How to Use **Markup Language** Withing **GitHub.**
 - Creating First File.
 - How to Host First Website.
 
