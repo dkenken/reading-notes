@@ -1,4 +1,4 @@
-# Essential Notes From 102 Class
+# **Essential Notes From 102 Class**
 
 ## **Agenda**
 
