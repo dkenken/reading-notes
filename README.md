@@ -1,7 +1,4 @@
 # **GROWTH MINDSET!**
 
-```
-{
-" Growth mindset"
-}
-```
+Growth mindset blah blah blah
+
