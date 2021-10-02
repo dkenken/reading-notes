@@ -4,16 +4,19 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 
 ## ***Growth Mindset Table***
 
-|                  | :`Passion`:       |
-| **Dedication**   | `Commitment`      |
-|                  | `Hard-Work`       |
-|                  | Perseverance      |        
-| **Perseverance** | Resolution        | 
-|                  | Determination     |
-|                  | `Habits`          |
-| **Discipline**   | `Routine`         |
-|                  | `Pattern`         |
-| **Self-Courage** | Confidence        |
-|                  | Resileincy        |
-| **Self-Hygiene** | `Hourly Break`    |
-|                  | `ufficient Sleep` |              
+|                  | `Passion`          |
+| **Dedication**   | `Commitment`       |
+|                  | `Hard-Work`        |
+|                  | Perseverance       |        
+| **Perseverance** | Resolution         | 
+|                  | Determination      |
+|                  | `Habits`           |
+| **Discipline**   | `Routine`          |
+|                  | `Pattern`          |
+| **Self-Courage** | Confidence         |
+|                  | Resileincy         | 
+| **Self-Hygiene** | `Hourly Break`     |
+|                  | `sufficient Sleep` |    
+
+### REMINDERS
+    **Key Factors**
