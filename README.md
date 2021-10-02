@@ -4,9 +4,10 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 
 ## ***Growth Mindset Table***
 
-| Dedication | - Passion |
-               - Commitment
-               - Hard-Work
-| Perseverance | - Persistance |
-                 - Determination
-                 - Resolution
+|              | Passion       |
+| Dedication   | Commitment    |
+|              | Hard-Work     |
+|              | Perseverance  |        
+|Perseverance  | Resolution    |
+|              | Determination |
+               
