@@ -28,4 +28,4 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 3. Reminder
    - I will keep a strict routine/same daily schedule.
  
-> Slow is ***Smooth*** and ***Smooth*** is slow! 
+> Slow is ***Smooth*** and ***Smooth*** is fast! - Amanda Brinkman
