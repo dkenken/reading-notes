@@ -19,4 +19,13 @@ Growth mindset is the abilty to adapt and evolve around obstacles in order to me
 |                  | `sufficient Sleep` |    
 
 ### REMINDERS
-    **Key Factors**
+**Key Factors**
+
+1. Reminder
+   - I will study /practice for three (3) hours daily.
+2. Reminder
+   - I will always remind myself that i will never quit.
+3. Reminder
+   - I will keep a strict routine/same daily schedule.
+ 
+> Slow is ***Smooth*** and ***Smooth*** is slow! 
