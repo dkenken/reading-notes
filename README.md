@@ -1,4 +1,7 @@
-# reading-notes
-Reading Notes from Code Fellows Bootcamp.
+# **GROWTH MINDSET!**
 
-## It is a Beautiful Morning and Blessing from the Almighty God!
+```
+{
+" Growth mindset"
+}
+```
