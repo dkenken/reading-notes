@@ -14,4 +14,4 @@
 | MKDIR   | Create a Folder  |
 | Touch   | Create a File    |
 
-![PWD](https://dkenken.github.io/reading-notes/refelection.png)
+![PWD](https://dkenken.github.io/reading-notes/reflection.png)
