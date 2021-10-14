@@ -1,10 +1,14 @@
 # **REVISION AND THE CLOUD!**
 
+## INTRODUCTION
+
+
+
 ## TABLE CONTENT
 - Git
   - Table Commands
 - GitHub
-- Conclusion
+- Terminal
 
 ### *What Is Git*
 
@@ -17,11 +21,22 @@ Git is a version control system that allows any user to make changes/stores/reve
 | COMMAND | DESCRIPTION |
 |   ---   |     ---     |
 | git clone | Clone a repository to text editor |
-|git status | Show the modified status |
+| git status | Show the modified status |
 | git add | To add file content to the index |
 | git commit -m "description" | Changes to take effect |
 | git push origin main | To push the changes on both sides |
 
 ### *What Is GitHub*
 GitHub is an open source version control software that uses git (Web-based interface).  
+
+### *What Is Terminal*
+The Mac terminal is command line system that can asssit any user/administrator take control of the operating system and make any necessary changes.
+
+#### **SCENARIO**
+I want to cvreate a folder on my desktop for my next project through VS Code.
+
+ In the TERMINAL:
+ - pwd = will let me see my present working directory. I nee
+
+
 
