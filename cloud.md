@@ -1,7 +1,10 @@
 # **REVISION AND THE CLOUD!**
 
 ## TABLE CONTENT
-
+- Git
+  - Table Commands
+- GitHub
+- Conclusion
 
 ### *What Is Git*
 
@@ -9,7 +12,7 @@ Git is a version control system that allows any user to make changes/stores/reve
 
 #### Here are some commands I have learned so far:
 
-**TABLE CONTENT**
+**TABLE COMMANDS**
 
 | COMMAND | DESCRIPTION |
 |   ---   |     ---     |
