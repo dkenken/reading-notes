@@ -2,7 +2,7 @@
 
 ## **INTRODUCTION**
 
-In today's lesson, we will have thorough undrestanding of how Git, GitHub and Terminal functionate and the effectiveness of these powerful tools.
+In today's lesson, we will have thorough undrestanding of the functionalities Git, GitHub and Terminal functionate and the effectiveness of such powerful tools.
 
 ### **TABLE CONTENT**
 - Git
