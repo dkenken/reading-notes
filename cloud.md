@@ -1,10 +1,13 @@
 # **REVISION AND THE CLOUD!**
 
-## *What Is Git*
+## TABLE CONTENT
+
+
+### *What Is Git*
 
 Git is a version control system that allows any user to make changes/stores/reverts to any files. Also, it allows users to collaborate easier/allow changed by multiple users that can be merged together into one source.
 
-### Here are some commands I have learned so far:
+#### Here are some commands I have learned so far:
 
 **TABLE CONTENT**
 
@@ -16,6 +19,6 @@ Git is a version control system that allows any user to make changes/stores/reve
 | git commit -m "description" | Changes to take effect |
 | git push origin main | To push the changes on both sides |
 
-## *What Is GitHub*
+### *What Is GitHub*
 GitHub is an open source version control software that uses git (Web-based interface).  
 
