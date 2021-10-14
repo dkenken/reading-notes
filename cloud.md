@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-
+In today's lesson, we will have thorough undrestanding of how Git, GitHub and Terminal functionate and the effectiveness of these powerful tools.
 
 ## TABLE CONTENT
 - Git
@@ -33,10 +33,12 @@ GitHub is an open source version control software that uses git (Web-based inter
 The Mac terminal is command line system that can asssit any user/administrator take control of the operating system and make any necessary changes.
 
 #### **SCENARIO**
-I want to cvreate a folder on my desktop for my next project through VS Code.
+I want to create a folder on my desktop for my next project through VS Code.
 
  In the TERMINAL:
- - pwd = will let me see my present working directory. I nee
+ - pwd = will let me see my present working directory. 
+ - cd desktop = will get me to the desktop just like in the GUI.
+ - mkdir + "folder's name" = will create a folder on my desktop. 
 
 
 
