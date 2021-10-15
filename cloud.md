@@ -7,7 +7,7 @@ In today's lesson, we will have thorough undrestanding of the functionalities of
 ### **TABLE CONTENT**
  - [Git's page](git.md)
  - [GitHub's page](github.md)
- -[ Terminal's page](terminal.md)
+ - [Terminal's page](terminal.md)
 
 #### ***What Is Git?***
 
