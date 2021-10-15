@@ -8,3 +8,5 @@ I want to create a folder on my desktop for my next project through VS Code.
  - pwd = will let me see my present working directory. 
  - cd desktop = will get me to the desktop just like in the GUI.
  - mkdir + "folder's name" = will create a folder on my desktop. 
+
+[<===BACK](cloud.md)
