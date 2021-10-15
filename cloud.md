@@ -8,5 +8,6 @@ In today's lesson, we will have thorough undrestanding of the functionalities of
  - [Git's page](git.md)
  - [GitHub's page](github.md)
  - [Terminal's page](terminal.md)
+ - [Lesson's page](lesson.md)
 
 
