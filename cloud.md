@@ -9,11 +9,6 @@ In today's lesson, we will have thorough undrestanding of the functionalities of
   -[GitHub's page](github.md)
   -[Terminal's page](terminal.md)
 
-- Git
-  - Table Commands
-- GitHub
-- Terminal
-
 #### ***What Is Git?***
 
 Git is a version control system that allows any user to make changes/stores/reverts to any files. Also, it allows users to collaborate easier/allow changed by multiple users that can be merged together into one source.
