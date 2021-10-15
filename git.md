@@ -15,6 +15,7 @@ Git is a version control system that allows any user to make changes/stores/reve
 | git push origin main        | To push the changes on both sides |
 
 Another way to get help:
+
 git help command
 
 git command --help
