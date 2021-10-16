@@ -1,9 +1,10 @@
 ## **INTRODUCTION**
 
-In today's lesson, we will have thorough undrestanding of the functionalities of Git, GitHub and Terminal and the effectiveness of such powerful tools.
+In today's lesson, we will go over these topics and have a better understanding on how to applicate them.
 
 ### **TABLE CONTENT**
- - [Git's page](git.md)
- - [GitHub's page](github.md)
- - [Terminal's page](terminal.md)
+ - [Cloud's page](cloud.md)
+ - [Growth's page](growth.md)
  - [Lesson's page](lesson.md)
+ - [Markdown's page](markdown.md)
+ - [Reflection's page](reflection.md)
