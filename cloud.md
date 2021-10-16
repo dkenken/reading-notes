@@ -48,3 +48,4 @@ I want to create a folder on my desktop for my next project through VS Code.
  - cd desktop = will get me to the desktop just like in the GUI.
  - mkdir + "folder's name" = will create a folder on my desktop. 
 
+[<===BACK](README.md)
