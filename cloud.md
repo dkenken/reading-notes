@@ -6,7 +6,7 @@ In today's lesson, we will have thorough undrestanding of the functionalities of
 
 ### **TABLE CONTENT**
  - Git
-  - Table Commands
+   - Table Commands
  - GitHub
  - Terminal
 
