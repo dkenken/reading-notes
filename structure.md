@@ -22,3 +22,7 @@
 #### **Article (center)**
 
 ### **Footer**
+
+- contact us
+- youtube
+- email
