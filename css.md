@@ -15,7 +15,7 @@ CSS (Cascading Style Sheets) allows you to create great-looking web pages, but h
     <h1>I am a level one heading</h1>
 
     <p>This is a paragraph of text. In the text is a <span>span element</span>
-and also a <a href="https://example.com">link</a>.</p>
+and also a <a href="">link</a>.</p>
 
     <p>This is the second paragraph. It contains an <em>emphasized</em> element.</p>
 
