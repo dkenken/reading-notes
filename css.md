@@ -13,20 +13,20 @@ CSS (Cascading Style Sheets) allows you to create great-looking web pages, but h
 
 <body>
 
-    <h1>I am a level one heading</h1>
+    ### <h1>I am a level one heading</h1>
 
     <p>This is a paragraph of text. In the text is a <span>span element</span>
 
     <p>This is the second paragraph. It contains an <em>emphasized</em> element.</p>
 
-    <ul>
-        <li>Item <span>one</span></li>
-        <li>Item two</li>
-        <li>Item <em>three</em></li>
+### <ul>
+
+    <li>Item <span>one</span></li>
+    <li>Item two</li>
+    <li>Item <em>three</em></li>
     </ul>
 
 </body>
-
 </html>
 
 ## CSS
