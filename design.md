@@ -30,7 +30,6 @@ CSS (Cascading Style Sheets) allows you to create great-looking web pages, but h
 </html>
 
 ## CSS
-
 h1 {
 color: red;
 font-size: 5em;
