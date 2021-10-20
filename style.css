@@ -9,7 +9,7 @@ body {
 }
 
 .ken {
-  background: url(/Images/c.jpg);
+  background: url(Images/c.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
