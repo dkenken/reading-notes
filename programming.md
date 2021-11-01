@@ -24,11 +24,12 @@ The result in x will be:
 Arithmetic operators are used to perform arithmetic on numbers:
 
 **Description** **Operator**
-Addition +
-Subtraction -
-Multiplication \*
-Exponentiation (ES2016) \*\*
-Division /
-Modulus (Division Remainder) %
-Increment ++
-Decrement --
+
+- Addition +
+- Subtraction -
+- Multiplication \*
+- Exponentiation (ES2016) \*\*
+- Division /
+- Modulus (Division Remainder) %
+- Increment ++
+- Decrement --
