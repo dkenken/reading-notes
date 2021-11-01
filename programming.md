@@ -23,7 +23,7 @@ The result in x will be:
 
 Arithmetic operators are used to perform arithmetic on numbers:
 
-**Description** **Operator**
+**Operator**
 
 - Addition +
 - Subtraction -
