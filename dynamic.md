@@ -8,10 +8,10 @@
 
 There are 3 ways to declare a JavaScript variable:
 
--Using var
--Using let
--Using const
--This chapter uses var.
+- Using var
+- Using let
+- Using const
+- This chapter uses var.
 
 The let and const keywords are explained in the next chapters.
 
