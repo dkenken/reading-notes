@@ -33,3 +33,25 @@ Arithmetic operators are used to perform arithmetic on numbers:
 - Modulus (Division Remainder) %
 - Increment ++
 - Decrement --
+
+**_Example_**
+let text1 = "John";
+let text2 = "Doe";
+let text3 = text1 + " " + text2;
+
+The result of text3 will be:
+John Doe
+
+### **Adding Strings and Numbers**
+
+Adding two numbers, will return the sum, but adding a number and a string will return a string:
+
+Example
+let x = 5 + 5;
+let y = "5" + 5;
+let z = "Hello" + 5;
+
+The result of x, y, and z will be:
+10
+55
+Hello5
