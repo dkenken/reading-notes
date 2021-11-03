@@ -4,7 +4,7 @@
 
 Arithmetic operators are used to perform arithmetic on numbers:
 
-**Operator**
+### **Operators**
 
 - Addition +
 - Subtraction -
