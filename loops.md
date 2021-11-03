@@ -15,7 +15,7 @@ Arithmetic operators are used to perform arithmetic on numbers:
 - Increment ++
 - Decrement --
 
-**_Example_**:
+**_Example:_**
 let text1 = "John";
 let text2 = "Doe";
 let text3 = text1 + " " + text2;
