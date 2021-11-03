@@ -15,7 +15,7 @@ Arithmetic operators are used to perform arithmetic on numbers:
 - Increment ++
 - Decrement --
 
-**_Example_**
+**_Example_**:
 let text1 = "John";
 let text2 = "Doe";
 let text3 = text1 + " " + text2;
@@ -29,8 +29,7 @@ John Doe
 
 The while loop loops through a block of code as long as a specified condition is true.
 
-**_Example_**
-
+**_Example:_**
 In the following example, the code in the loop will run, over and over again, as long as a variable (i) is less than 10:
 
 while (i < 10) {
@@ -42,8 +41,7 @@ i++;
 
 The For loop loops loops through a block of code a number of times.
 
-**_Example_**
-
+**_Example:_**
 The for loop has the following syntax:
 
 for (statement 1; statement 2; statement 3) {
@@ -55,7 +53,7 @@ Statement 2 defines the condition for executing the code block.
 
 Statement 3 is executed (every time) after the code block has been executed.
 
-Example
+**_Example:_**
 for (let i = 0; i < 5; i++) {
 text += "The number is " + i + "<br>";
 }
