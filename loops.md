@@ -25,7 +25,7 @@ John Doe
 
 ## **Loops**
 
-**The While Loop**
+### **The While Loop**
 
 The while loop loops through a block of code as long as a specified condition is true.
 
@@ -38,7 +38,7 @@ text += "The number is " + i;
 i++;
 }
 
-## **The For Loop**
+### **The For Loop**
 
 The For loop loops loops through a block of code a number of times.
 
